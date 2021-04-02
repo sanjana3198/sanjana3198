@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sanjana Singh @sanjana3198
+- 📈 Goal-Oriented Data Scientist with experience in Java and SQL Development | Seeking a full-time opportunity
 - 👀 I’m interested in Data Analysis and Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on analysis projects
